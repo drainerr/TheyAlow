@@ -59,7 +59,7 @@ header .wrapper{
     flex-wrap:wrap;
 }
 .wrapper nav{
-    margin-top:70px;
+    margin-top:50px;
 }
 .wrapper nav ul{
     display:flex;
