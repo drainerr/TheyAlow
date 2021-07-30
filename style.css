@@ -674,7 +674,7 @@ footer .logo{
     .twitter-posts-section li {
         width:54vw;
         height:43px;
-        background-image: url(./assets/bubble-Opacity-Half.png);
+        background-image: url(./assets/bubble-half-opacity.svg);
         background-repeat: no-repeat;
         background-size:contain;
         margin:1vw;
@@ -686,7 +686,7 @@ footer .logo{
         margin: 7px auto auto 20px;
     }
     .twitter-posts-section li:nth-child(1){
-        background-image: url(./assets/bubble.png);
+        background-image: url(./assets/bubble.svg);
     }
     .twitter-posts-section li:nth-child(4){
         background-image: none;
