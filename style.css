@@ -572,7 +572,7 @@ footer .logo{
     }
     .wrapper nav ul li{
         width:21vw;
-        height:11vh;
+        height:55px;
     }
     .wrapper nav ul li img{
         height:3.5vw;
@@ -714,13 +714,14 @@ footer .logo{
     }
     .tweeter-input form{
         display:flex;
-        padding-left:20px;
+        padding-left:8px;
     }
     .tweeter-input button{
         margin:0;
-        width: 10vw;
         border-top-right-radius: 15px;
         border-bottom-right-radius: 15px;
+        padding-left: 3.5vw;
+        padding-right: 3.5vw;
         background-color:orange;
         border: none;
         border: solid 1px #e19600;
@@ -735,7 +736,7 @@ footer .logo{
         transform: .5s;
     }
     .tweeter-input input{
-        height: 3vh;
+        height: 24px;
         border-bottom-left-radius: 15px;
         border-top-left-radius: 15px;
         border: none;
