@@ -742,6 +742,9 @@ footer .logo{
         border: none;
         width: 33vw;
         border: solid 1px #e19600;
+        color:salmon;
+        padding-left:5px;
+        font-size:10px;
     }
     .oneThousandPercentFree{
         margin-top: -7vw;
